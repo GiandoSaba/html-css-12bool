@@ -1,9 +1,36 @@
-[class*="col-"] {
-    height: 50px;
-    background-color: blue;
-    border: 1px solid white;
-    color: white;
+.container-fluid {
+    margin-bottom: 20px;
+}
+
+.center {
     display: flex;
     align-items: center;
     justify-content: center;
 }
+
+.nested {
+    width: 95%;
+    margin: auto;
+}
+
+.height-50 {
+    height: 50px;
+}
+
+.height-80 {
+    height: 80px;
+}
+
+.blue {
+    background-color: blue;
+    border: 1px solid white;
+    color: white;
+}
+
+.green {
+    background-color: greenyellow;
+    border: 1px solid blue;
+    color: white;
+}
+
+
