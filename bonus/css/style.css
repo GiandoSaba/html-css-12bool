@@ -1,0 +1,40 @@
+[class*="col-"] {
+    height: 50px;
+}
+
+.container-fluid {
+    display: flex;
+    height: 100vh;
+}
+.container-600 {
+    width: 600px;
+    margin: auto;
+}
+
+.white {
+    background-color: white;
+}
+
+.black {
+    background-color: black;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.lightgreen {
+    background-color: lime;
+}
+
+.grey {
+    background-color: grey;
+}
+
+.lightgrey {
+    background-color: lightgray;
+}
